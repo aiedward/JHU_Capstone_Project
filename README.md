@@ -4,7 +4,7 @@ The objective of this project is to build a **predictive text app** that is able
 
 To build this app, we used:
 
-- A large corpus of text from [HC Corpora](www.corpora.heliohost.org)
+- A large corpus of text from [HC Corpora](https://www.corpora.heliohost.org)
 - **Natural Language Processing** methods
 
 This project is part of the **Data Science Capstone** from **Johns Hopkins University** and **SwiftKey** (company building smart keyboards using predictive text analytics).
